@@ -14,6 +14,7 @@ public class Exam_03 {
 					int imsi = score[x];
 					score[x] = score[y];
 					score[y] = imsi;
+					
 				}
 			}
 		}
